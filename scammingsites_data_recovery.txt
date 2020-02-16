@@ -1,0 +1,37 @@
+# Lead me to your Pihole
+# ------------------------------------------------------------------------------------------------
+# This is a small amout of Domains, you schouldn't enter in your browser
+# These Domains are from the not so serious data repair market tree.
+# You could do these thinks at your own easily, without a technician.
+# ---------------------------------------------------------------------------------------------------
+# They only are now some German Domains, but you can easily give some suggestions
+# about adding new ones, because this is a community based project. Just send me the URL / Domain to
+# rsclub2.2@e.email
+# ----------------------------------------------------------------------------------------------------
+# This is a Blockinglist for your own security in the Internet, which you can add to a PiHole
+# --------------------------------------------------------------------------------------------
+# 
+www.ontrack.com
+ontrack.com
+www.datenrettung-germany.de
+datenrettung-germany.de
+www.datarecovery-datenrettung.de
+datarecovery-datenrettung.de
+www.cbltech.de
+cbltech.de
+www.stellardatenrettung.de
+stellardatenrettung.de
+www.kuert-datenrettung.de
+kuert-datenrettung.de
+www.030-datenrettung.de
+030-datenrettung.de
+www.awit-deutschland.de
+awit-deutschland.de
+www.datenrettung-swiss.ch
+datenrettung-swiss.ch
+www.datenrettung-datenretter.de
+datenrettung-datenretter.de
+www.attingo.com
+attingo.com
+www.datenretter.de
+datenretter.de
